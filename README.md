@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=I+ship+products+end-to-end.;I+manage+teams+and+write+the+code+too.;Marketplaces+%C2%B7+Mobile+%C2%B7+Web+%C2%B7+APIs;Maths+taught+me+to+think.+Software+lets+me+build." alt="Typing SVG" />
 </a>
 
-![Profile views](https://github.com/ojingwaDaniel)
-
 </div>
 
 ---
@@ -63,19 +61,18 @@ I'm a **Project Manager at Ghub Technologies Limited** who still writes code. Th
 - **🍽️ Restaurant order-ahead app:** pickup-first MVP built from scratch in Flutter.
 - **🦠 Cholera Transmission Model:** B.Tech final-year project using a SEIRS + environmental compartment model, with R₀ derived through the Next Generation Matrix, Lyapunov stability analysis and PRCC sensitivity analysis in MATLAB.
 
->
+> 📌 Pin your best 6 repos and add a one-line description to each. Recruiters skim pinned repos first.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojingwaDaniel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojingwaDaniel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojingwaDaniel&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojingwaDaniel&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ojingwaDaniel&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
