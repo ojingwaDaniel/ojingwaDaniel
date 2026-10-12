@@ -71,10 +71,6 @@ I'm a **Project Manager at Ghub Technologies Limited** who still writes code. Th
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojingwaDaniel&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ojingwaDaniel&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <div align="center">
