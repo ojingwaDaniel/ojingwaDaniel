@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=I+ship+products+end-to-end.;I+manage+teams+and+write+the+code+too.;Marketplaces+%C2%B7+Mobile+%C2%B7+Web+%C2%B7+APIs;Maths+taught+me+to+think.+Software+lets+me+build." alt="Typing SVG" />
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=ojingwaDaniel&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://github.com/ojingwaDaniel)
 
 </div>
 
